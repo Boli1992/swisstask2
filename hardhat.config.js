@@ -8,7 +8,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: [``], //your private key
+      accounts: [`68783`], //your private key
     },
   },
 };
